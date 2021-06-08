@@ -1,2 +1,3 @@
 # diabetes
-ml project
+ML project
+diabetes prediction
